@@ -1,0 +1,18 @@
+{
+  "name": "slackster-llm-backend",
+  "version": "1.0.0",
+  "description": "LLM integration for Slackster",
+  "main": "chat.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@aws-sdk/client-bedrock-runtime": "^3.300.0",
+    "@aws-sdk/client-s3": "^3.300.0",
+    "@aws-sdk/credential-provider-node": "^3.300.0",
+    "@opensearch-project/opensearch": "^2.2.0",
+    "agentkeepalive": "^4.3.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
