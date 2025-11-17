@@ -9,7 +9,7 @@
   "dependencies": {
     "@aws-sdk/client-bedrock-runtime": "^3.300.0",
     "@aws-sdk/client-s3": "^3.300.0",
-    "@aws-sdk/credential-provider-node": "^3.300.0",
+    "@aws-sdk/credential-provider-node": "^3.917.0",
     "@opensearch-project/opensearch": "^2.2.0",
     "agentkeepalive": "^4.3.0"
   },
